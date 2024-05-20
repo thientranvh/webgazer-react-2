@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/webgazer-react-2/static/css/main.f855e6bc.css",
-    "main.js": "/webgazer-react-2/static/js/main.3cc36521.js",
+    "main.css": "/webgazer-react-2/static/css/main.e6c13ad2.css",
+    "main.js": "/webgazer-react-2/static/js/main.7afd233a.js",
     "static/js/453.26796fb8.chunk.js": "/webgazer-react-2/static/js/453.26796fb8.chunk.js",
-    "static/media/logo.svg": "/webgazer-react-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/webgazer-react-2/index.html",
-    "main.f855e6bc.css.map": "/webgazer-react-2/static/css/main.f855e6bc.css.map",
-    "main.3cc36521.js.map": "/webgazer-react-2/static/js/main.3cc36521.js.map",
+    "main.e6c13ad2.css.map": "/webgazer-react-2/static/css/main.e6c13ad2.css.map",
+    "main.7afd233a.js.map": "/webgazer-react-2/static/js/main.7afd233a.js.map",
     "453.26796fb8.chunk.js.map": "/webgazer-react-2/static/js/453.26796fb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3cc36521.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7afd233a.js"
   ]
 }
